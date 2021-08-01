@@ -1,0 +1,703 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4520 ]
+[d frameptr 4065 ]
+"56 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[e E2359 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"60 /home/marcos-bah/MPLABXProjects/trabalho-final.X/ssd.c
+[e E7 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"244 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[e E330 pin_label `uc
+PIN_A0 0
+PIN_A1 1
+PIN_A2 2
+PIN_A3 3
+PIN_A4 4
+PIN_A5 5
+PIN_A6 6
+PIN_A7 7
+PIN_B0 8
+PIN_B1 9
+PIN_B2 10
+PIN_B3 11
+PIN_B4 12
+PIN_B5 13
+PIN_B6 14
+PIN_B7 15
+PIN_C0 16
+PIN_C1 17
+PIN_C2 18
+PIN_C3 19
+PIN_C4 20
+PIN_C5 21
+PIN_C6 22
+PIN_C7 23
+PIN_D0 24
+PIN_D1 25
+PIN_D2 26
+PIN_D3 27
+PIN_D4 28
+PIN_D5 29
+PIN_D6 30
+PIN_D7 31
+PIN_E0 32
+PIN_E1 33
+PIN_E2 34
+PIN_E3 35
+PIN_E4 36
+PIN_E5 37
+PIN_E6 38
+PIN_E7 39
+]
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"4 /opt/microchip/xc8/v2.32/pic/sources/c99/common/fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"4 /opt/microchip/xc8/v2.32/pic/sources/c99/common/flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+"62 /opt/microchip/xc8/v2.32/pic/sources/c99/common/float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 /opt/microchip/xc8/v2.32/pic/sources/c99/common/ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 /opt/microchip/xc8/v2.32/pic/sources/c99/common/ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 /opt/microchip/xc8/v2.32/pic/sources/c99/common/ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 /opt/microchip/xc8/v2.32/pic/sources/c99/common/ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"6 /opt/microchip/xc8/v2.32/pic/sources/c99/common/rand.c
+[v _srand srand `(v  1 e 1 0 ]
+"11
+[v _rand rand `(i  1 e 2 0 ]
+"10 /opt/microchip/xc8/v2.32/pic/sources/c99/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 /opt/microchip/xc8/v2.32/pic/sources/c99/common/sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 /opt/microchip/xc8/v2.32/pic/sources/c99/common/sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"6 /opt/microchip/xc8/v2.32/pic/sources/c99/common/time.c
+[v _time time `(o  1 e 8 0 ]
+"15 /opt/microchip/xc8/v2.32/pic/sources/c99/common/Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+"15 /opt/microchip/xc8/v2.32/pic/sources/c99/common/Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 /opt/microchip/xc8/v2.32/pic/sources/c99/common/Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"36 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _escreve escreve `(v  1 e 1 0 ]
+"44
+[v _delay delay `(v  1 e 1 0 ]
+"52
+[v _verso verso `(v  1 e 1 0 ]
+"63
+[v _inverso inverso `(v  1 e 1 0 ]
+"74
+[v _textInit textInit `(v  1 e 1 0 ]
+"89
+[v _itoa itoa `(*.39uc  1 e 2 0 ]
+"116
+[v _textInstrutions textInstrutions `(v  1 e 1 0 ]
+"132
+[v _textApostas textApostas `(v  1 e 1 0 ]
+"149
+[v _textSaldo textSaldo `(v  1 e 1 0 ]
+"167
+[v _textWait textWait `(v  1 e 1 0 ]
+"182
+[v _textGameOver textGameOver `(v  1 e 1 0 ]
+"197
+[v _textLost textLost `(v  1 e 1 0 ]
+"212
+[v _textWin textWin `(v  1 e 1 0 ]
+"230
+[v _Apostando Apostando `(v  1 e 1 0 ]
+"255
+[v _textApostando textApostando `(v  1 e 1 0 ]
+"14 /home/marcos-bah/MPLABXProjects/trabalho-final.X/io.c
+[v _digitalWrite digitalWrite `(v  1 e 1 0 ]
+"54
+[v _pinMode pinMode `(v  1 e 1 0 ]
+"35 /home/marcos-bah/MPLABXProjects/trabalho-final.X/keypad.c
+[v _kpRead kpRead `(ui  1 e 2 0 ]
+"39
+[v _kpDebounce kpDebounce `(v  1 e 1 0 ]
+"87
+[v _kpInit kpInit `(v  1 e 1 0 ]
+"31 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[v _Delay40us Delay40us `(v  1 e 1 0 ]
+"37
+[v _Delay2ms Delay2ms `(v  1 e 1 0 ]
+"48
+[v _lcdCommand lcdCommand `(v  1 e 1 0 ]
+"74
+[v _lcdData lcdData `(v  1 e 1 0 ]
+"95
+[v _lcdInit lcdInit `(v  1 e 1 0 ]
+"28 /home/marcos-bah/MPLABXProjects/trabalho-final.X/main.c
+[v _main main `(v  1 e 1 0 ]
+"24 /home/marcos-bah/MPLABXProjects/trabalho-final.X/pwm.c
+[v _pwmSet pwmSet `(v  1 e 1 0 ]
+"44
+[v _pwmFrequency pwmFrequency `(v  1 e 1 0 ]
+"51
+[v _pwmInit pwmInit `(v  1 e 1 0 ]
+"38 /home/marcos-bah/MPLABXProjects/trabalho-final.X/ssd.c
+[v _ssdDigit ssdDigit `(v  1 e 1 0 ]
+"54
+[v _ssdUpdate ssdUpdate `(v  1 e 1 0 ]
+"101
+[v _ssdInit ssdInit `(v  1 e 1 0 ]
+"53 /opt/microchip/xc8/v2.32/pic/include/proc/pic18f4520.h
+[v _PORTA PORTA `VEuc  1 e 1 @3968 ]
+"272
+[v _PORTB PORTB `VEuc  1 e 1 @3969 ]
+"451
+[v _PORTC PORTC `VEuc  1 e 1 @3970 ]
+"633
+[v _PORTD PORTD `VEuc  1 e 1 @3971 ]
+"775
+[v _PORTE PORTE `VEuc  1 e 1 @3972 ]
+"1478
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"1700
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"1922
+[v _TRISC TRISC `VEuc  1 e 1 @3988 ]
+"2144
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"2366
+[v _TRISE TRISE `VEuc  1 e 1 @3990 ]
+"4502
+[v _CCP1CON CCP1CON `VEuc  1 e 1 @4029 ]
+"4606
+[v _CCPR1L CCPR1L `VEuc  1 e 1 @4030 ]
+"5316
+[v _T2CON T2CON `VEuc  1 e 1 @4042 ]
+"5414
+[v _PR2 PR2 `VEuc  1 e 1 @4043 ]
+"4 /opt/microchip/xc8/v2.32/pic/sources/c99/common/rand.c
+[v _seed seed `ul  1 s 4 seed ]
+"147 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _saldo saldo `i  1 e 2 0 ]
+"228
+[v _sorte sorte `i  1 e 2 0 ]
+"25 /home/marcos-bah/MPLABXProjects/trabalho-final.X/keypad.c
+[v _valor valor `ui  1 s 2 valor ]
+"32 /home/marcos-bah/MPLABXProjects/trabalho-final.X/ssd.c
+[v _valor@ssd$F222 valor `C[16]uc  1 s 16 valor ]
+"34
+[v _display display `uc  1 s 1 display ]
+"36
+[v _v0 v0 `uc  1 s 1 v0 ]
+[v _v1 v1 `uc  1 s 1 v1 ]
+[v _v2 v2 `uc  1 s 1 v2 ]
+[v _v3 v3 `uc  1 s 1 v3 ]
+"28 /home/marcos-bah/MPLABXProjects/trabalho-final.X/main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"29
+[v main@tecla tecla `ui  1 a 2 123 ]
+"65
+} 0
+"6 /opt/microchip/xc8/v2.32/pic/sources/c99/common/time.c
+[v _time time `(o  1 e 8 0 ]
+{
+[v time@t t `*.2o  1 p 2 0 ]
+"12
+} 0
+"167 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _textWait textWait `(v  1 e 1 0 ]
+{
+"170
+[v textWait@text2 text2 `[15]uc  1 a 15 26 ]
+"169
+[v textWait@text text `[15]uc  1 a 15 11 ]
+"168
+[v textWait@F2779 F2779 `[15]uc  1 s 15 F2779 ]
+"169
+[v textWait@F2781 F2781 `[15]uc  1 s 15 F2781 ]
+"180
+} 0
+"116
+[v _textInstrutions textInstrutions `(v  1 e 1 0 ]
+{
+"118
+[v textInstrutions@text2 text2 `[15]uc  1 a 15 26 ]
+"117
+[v textInstrutions@text text `[15]uc  1 a 15 11 ]
+"116
+[v textInstrutions@F2763 F2763 `[15]uc  1 s 15 F2763 ]
+"117
+[v textInstrutions@F2765 F2765 `[15]uc  1 s 15 F2765 ]
+"130
+} 0
+"74
+[v _textInit textInit `(v  1 e 1 0 ]
+{
+"76
+[v textInit@text2 text2 `[16]uc  1 a 16 11 ]
+"75
+[v textInit@text text `[12]uc  1 a 12 27 ]
+"74
+[v textInit@F2750 F2750 `[12]uc  1 s 12 F2750 ]
+"75
+[v textInit@F2752 F2752 `[16]uc  1 s 16 F2752 ]
+"87
+} 0
+"132
+[v _textApostas textApostas `(v  1 e 1 0 ]
+{
+"134
+[v textApostas@text2 text2 `[15]uc  1 a 15 26 ]
+"133
+[v textApostas@text text `[15]uc  1 a 15 11 ]
+"132
+[v textApostas@F2768 F2768 `[15]uc  1 s 15 F2768 ]
+"133
+[v textApostas@F2770 F2770 `[15]uc  1 s 15 F2770 ]
+"145
+} 0
+"255
+[v _textApostando textApostando `(v  1 e 1 0 ]
+{
+"260
+[v textApostando@text2 text2 `[15]uc  1 a 15 100 ]
+"259
+[v textApostando@text text `[15]uc  1 a 15 85 ]
+"258
+[v textApostando@F2804 F2804 `[15]uc  1 s 15 F2804 ]
+"259
+[v textApostando@F2806 F2806 `[15]uc  1 s 15 F2806 ]
+"279
+} 0
+"52
+[v _verso verso `(v  1 e 1 0 ]
+{
+"54
+[v verso@x x `uc  1 a 1 3 ]
+[v verso@k k `uc  1 a 1 2 ]
+"61
+} 0
+"182
+[v _textGameOver textGameOver `(v  1 e 1 0 ]
+{
+"184
+[v textGameOver@text2 text2 `[20]uc  1 a 20 39 ]
+"183
+[v textGameOver@text text `[15]uc  1 a 15 59 ]
+"182
+[v textGameOver@F2784 F2784 `[15]uc  1 s 15 F2784 ]
+"183
+[v textGameOver@F2786 F2786 `[20]uc  1 s 20 F2786 ]
+"195
+} 0
+"24 /home/marcos-bah/MPLABXProjects/trabalho-final.X/pwm.c
+[v _pwmSet pwmSet `(v  1 e 1 0 ]
+{
+[v pwmSet@porcento porcento `uc  1 a 1 wreg ]
+"31
+[v pwmSet@val val `ui  1 a 2 10 ]
+"24
+[v pwmSet@porcento porcento `uc  1 a 1 wreg ]
+"31
+[v pwmSet@porcento porcento `uc  1 a 1 9 ]
+"41
+} 0
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"10
+[v ___lwdiv@quotient quotient `ui  1 a 2 4 ]
+"11
+[v ___lwdiv@counter counter `uc  1 a 1 6 ]
+"7
+[v ___lwdiv@dividend dividend `ui  1 p 2 0 ]
+[v ___lwdiv@divisor divisor `ui  1 p 2 2 ]
+"30
+} 0
+"63 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _inverso inverso `(v  1 e 1 0 ]
+{
+"65
+[v inverso@x x `uc  1 a 1 3 ]
+[v inverso@k k `uc  1 a 1 2 ]
+"72
+} 0
+"230
+[v _Apostando Apostando `(v  1 e 1 0 ]
+{
+"241
+[v Apostando@tempo tempo `f  1 a 4 77 ]
+"235
+[v Apostando@t t `f  1 a 4 73 ]
+"233
+[v Apostando@ssorte ssorte `[4]uc  1 a 4 69 ]
+"253
+} 0
+"212
+[v _textWin textWin `(v  1 e 1 0 ]
+{
+"214
+[v textWin@text2 text2 `[15]uc  1 a 15 54 ]
+"213
+[v textWin@text text `[15]uc  1 a 15 39 ]
+"212
+[v textWin@F2794 F2794 `[15]uc  1 s 15 F2794 ]
+"213
+[v textWin@F2796 F2796 `[15]uc  1 s 15 F2796 ]
+"226
+} 0
+"197
+[v _textLost textLost `(v  1 e 1 0 ]
+{
+"199
+[v textLost@text2 text2 `[15]uc  1 a 15 54 ]
+"198
+[v textLost@text text `[15]uc  1 a 15 39 ]
+"197
+[v textLost@F2789 F2789 `[15]uc  1 s 15 F2789 ]
+"198
+[v textLost@F2791 F2791 `[15]uc  1 s 15 F2791 ]
+"210
+} 0
+"149
+[v _textSaldo textSaldo `(v  1 e 1 0 ]
+{
+"153
+[v textSaldo@text2 text2 `[10]uc  1 a 10 29 ]
+"152
+[v textSaldo@text text `[6]uc  1 a 6 23 ]
+"151
+[v textSaldo@F2774 F2774 `[6]uc  1 s 6 F2774 ]
+"165
+} 0
+"89
+[v _itoa itoa `(*.39uc  1 e 2 0 ]
+{
+"96
+[v itoa@ptr ptr `*.39uc  1 a 2 21 ]
+[v itoa@ptr1 ptr1 `*.39uc  1 a 2 19 ]
+"97
+[v itoa@tmp_value tmp_value `i  1 a 2 17 ]
+"96
+[v itoa@tmp_char tmp_char `uc  1 a 1 16 ]
+"89
+[v itoa@value value `i  1 p 2 8 ]
+[v itoa@result result `*.39uc  1 p 2 10 ]
+[v itoa@basea basea `i  1 p 2 12 ]
+"114
+} 0
+"15 /opt/microchip/xc8/v2.32/pic/sources/c99/common/Umul16.c
+[v ___wmul __wmul `(ui  1 e 2 0 ]
+{
+"17
+[v ___wmul@product product `ui  1 a 2 4 ]
+"15
+[v ___wmul@multiplier multiplier `ui  1 p 2 0 ]
+[v ___wmul@multiplicand multiplicand `ui  1 p 2 2 ]
+"53
+} 0
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"7
+[v ___awdiv@dividend dividend `i  1 p 2 0 ]
+[v ___awdiv@divisor divisor `i  1 p 2 2 ]
+"41
+} 0
+"36 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _escreve escreve `(v  1 e 1 0 ]
+{
+"37
+[v escreve@i i `uc  1 a 1 10 ]
+"36
+[v escreve@text text `*.39uc  1 p 2 8 ]
+"42
+} 0
+"74 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[v _lcdData lcdData `(v  1 e 1 0 ]
+{
+[v lcdData@valor valor `uc  1 a 1 wreg ]
+"77
+[v lcdData@old_D old_D `uc  1 a 1 7 ]
+"74
+[v lcdData@valor valor `uc  1 a 1 wreg ]
+"78
+[v lcdData@valor valor `uc  1 a 1 6 ]
+"92
+} 0
+"44 /home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
+[v _delay delay `(v  1 e 1 0 ]
+{
+"45
+[v delay@j j `uc  1 a 1 1 ]
+[v delay@i i `uc  1 a 1 0 ]
+"50
+} 0
+"54 /home/marcos-bah/MPLABXProjects/trabalho-final.X/ssd.c
+[v _ssdUpdate ssdUpdate `(v  1 e 1 0 ]
+{
+"99
+} 0
+"38
+[v _ssdDigit ssdDigit `(v  1 e 1 0 ]
+{
+[v ssdDigit@val val `uc  1 a 1 wreg ]
+[v ssdDigit@val val `uc  1 a 1 wreg ]
+[v ssdDigit@pos pos `uc  1 p 1 24 ]
+[v ssdDigit@val val `uc  1 a 1 25 ]
+"52
+} 0
+"11 /opt/microchip/xc8/v2.32/pic/sources/c99/common/rand.c
+[v _rand rand `(i  1 e 2 0 ]
+{
+"15
+} 0
+"15 /opt/microchip/xc8/v2.32/pic/sources/c99/common/Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+{
+"17
+[v ___lmul@product product `ul  1 a 4 8 ]
+"15
+[v ___lmul@multiplier multiplier `ul  1 p 4 0 ]
+[v ___lmul@multiplicand multiplicand `ul  1 p 4 4 ]
+"129
+} 0
+"4 /opt/microchip/xc8/v2.32/pic/sources/c99/common/flge.c
+[v ___flge __flge `(b  1 e 0 0 ]
+{
+[v ___flge@ff1 ff1 `d  1 p 4 0 ]
+[v ___flge@ff2 ff2 `d  1 p 4 4 ]
+"19
+} 0
+"10 /opt/microchip/xc8/v2.32/pic/sources/c99/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+{
+"17
+[v ___fladd@grs grs `uc  1 a 1 15 ]
+"15
+[v ___fladd@bexp bexp `uc  1 a 1 14 ]
+"16
+[v ___fladd@aexp aexp `uc  1 a 1 13 ]
+"13
+[v ___fladd@signs signs `uc  1 a 1 12 ]
+"10
+[v ___fladd@b b `d  1 p 4 0 ]
+[v ___fladd@a a `d  1 p 4 4 ]
+"237
+} 0
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"10
+[v ___awmod@sign sign `uc  1 a 1 23 ]
+[v ___awmod@counter counter `uc  1 a 1 22 ]
+"7
+[v ___awmod@dividend dividend `i  1 p 2 18 ]
+[v ___awmod@divisor divisor `i  1 p 2 20 ]
+"34
+} 0
+"101 /home/marcos-bah/MPLABXProjects/trabalho-final.X/ssd.c
+[v _ssdInit ssdInit `(v  1 e 1 0 ]
+{
+"111
+} 0
+"6 /opt/microchip/xc8/v2.32/pic/sources/c99/common/rand.c
+[v _srand srand `(v  1 e 1 0 ]
+{
+[v srand@s s `ui  1 p 2 8 ]
+"9
+} 0
+"51 /home/marcos-bah/MPLABXProjects/trabalho-final.X/pwm.c
+[v _pwmInit pwmInit `(v  1 e 1 0 ]
+{
+"61
+} 0
+"44
+[v _pwmFrequency pwmFrequency `(v  1 e 1 0 ]
+{
+[v pwmFrequency@freq freq `ui  1 p 2 14 ]
+"49
+} 0
+"7 /opt/microchip/xc8/v2.32/pic/sources/c99/common/aldiv.c
+[v ___aldiv __aldiv `(l  1 e 4 0 ]
+{
+"10
+[v ___aldiv@quotient quotient `l  1 a 4 10 ]
+"11
+[v ___aldiv@sign sign `uc  1 a 1 9 ]
+[v ___aldiv@counter counter `uc  1 a 1 8 ]
+"7
+[v ___aldiv@dividend dividend `l  1 p 4 0 ]
+[v ___aldiv@divisor divisor `l  1 p 4 4 ]
+"41
+} 0
+"95 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[v _lcdInit lcdInit `(v  1 e 1 0 ]
+{
+"116
+} 0
+"54 /home/marcos-bah/MPLABXProjects/trabalho-final.X/io.c
+[v _pinMode pinMode `(v  1 e 1 0 ]
+{
+[v pinMode@pin pin `i  1 p 2 0 ]
+[v pinMode@type type `i  1 p 2 2 ]
+"73
+} 0
+"48 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[v _lcdCommand lcdCommand `(v  1 e 1 0 ]
+{
+[v lcdCommand@cmd cmd `uc  1 a 1 wreg ]
+"50
+[v lcdCommand@old_D old_D `uc  1 a 1 6 ]
+"48
+[v lcdCommand@cmd cmd `uc  1 a 1 wreg ]
+"51
+[v lcdCommand@cmd cmd `uc  1 a 1 7 ]
+"72
+} 0
+"14 /home/marcos-bah/MPLABXProjects/trabalho-final.X/io.c
+[v _digitalWrite digitalWrite `(v  1 e 1 0 ]
+{
+[v digitalWrite@pin pin `i  1 p 2 0 ]
+[v digitalWrite@value value `i  1 p 2 2 ]
+"38
+} 0
+"37 /home/marcos-bah/MPLABXProjects/trabalho-final.X/lcd.c
+[v _Delay2ms Delay2ms `(v  1 e 1 0 ]
+{
+"39
+[v Delay2ms@i i `uc  1 a 1 1 ]
+"44
+} 0
+"31
+[v _Delay40us Delay40us `(v  1 e 1 0 ]
+{
+"33
+[v Delay40us@i i `uc  1 a 1 0 ]
+"35
+} 0
+"35 /home/marcos-bah/MPLABXProjects/trabalho-final.X/keypad.c
+[v _kpRead kpRead `(ui  1 e 2 0 ]
+{
+"37
+} 0
+"87
+[v _kpInit kpInit `(v  1 e 1 0 ]
+{
+"92
+} 0
+"39
+[v _kpDebounce kpDebounce `(v  1 e 1 0 ]
+{
+"63
+[v kpDebounce@k k `i  1 a 2 6 ]
+"40
+[v kpDebounce@i i `uc  1 a 1 9 ]
+[v kpDebounce@j j `uc  1 a 1 8 ]
+"46
+[v kpDebounce@old_D old_D `uc  1 a 1 5 ]
+"41
+[v kpDebounce@tempo tempo `uc  1 s 1 tempo ]
+"42
+[v kpDebounce@valorNovo valorNovo `ui  1 s 2 valorNovo ]
+"43
+[v kpDebounce@valorAntigo valorAntigo `ui  1 s 2 valorAntigo ]
+"85
+} 0
