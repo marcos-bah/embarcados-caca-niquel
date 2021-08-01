@@ -1,0 +1,11 @@
+build/*
+nbproject/*
+*.cmf
+*.elf
+*.hxl
+*.lst
+*.map
+*.mum
+*.rlf
+*.sdb
+*.sym
