@@ -67,7 +67,7 @@ dataBANK0 BANK0 1 80 80 5F 1
 dataBANK1 BANK1 1 100 100 9C 1
 bssCOMRAM COMRAM 1 7E 7E 2 1
 config CONFIG 4 300000 300000 E 1
-$/tmp/xcXlhIDkc.o
+$/tmp/xcXpljgjj.o
 idloc IDLOC 5 200000 200000 8 1
 init CODE 0 0 0 4 1
 config CONFIG 4 300000 300000 E 1
@@ -773,50 +773,50 @@ DEA text12 CODE >253:/home/marcos-bah/MPLABXProjects/trabalho-final.X/apostas.c
 1998 text0 CODE >55:/home/marcos-bah/MPLABXProjects/trabalho-final.X/main.c
 199C text0 CODE >58:/home/marcos-bah/MPLABXProjects/trabalho-final.X/main.c
 19AA text0 CODE >59:/home/marcos-bah/MPLABXProjects/trabalho-final.X/main.c
-22B4 cinit CODE >2645:/tmp/xcXNPhaJa.s
-22B4 cinit CODE >2647:/tmp/xcXNPhaJa.s
-22B4 cinit CODE >2650:/tmp/xcXNPhaJa.s
-22B4 cinit CODE >2785:/tmp/xcXNPhaJa.s
-22B6 cinit CODE >2786:/tmp/xcXNPhaJa.s
-22B8 cinit CODE >2787:/tmp/xcXNPhaJa.s
-22BA cinit CODE >2788:/tmp/xcXNPhaJa.s
-22BC cinit CODE >2789:/tmp/xcXNPhaJa.s
-22BE cinit CODE >2790:/tmp/xcXNPhaJa.s
-22C0 cinit CODE >2791:/tmp/xcXNPhaJa.s
-22C4 cinit CODE >2792:/tmp/xcXNPhaJa.s
-22C8 cinit CODE >2793:/tmp/xcXNPhaJa.s
-22C8 cinit CODE >2794:/tmp/xcXNPhaJa.s
-22CA cinit CODE >2795:/tmp/xcXNPhaJa.s
-22CE cinit CODE >2796:/tmp/xcXNPhaJa.s
-22D0 cinit CODE >2797:/tmp/xcXNPhaJa.s
-22D2 cinit CODE >2798:/tmp/xcXNPhaJa.s
-22D4 cinit CODE >2802:/tmp/xcXNPhaJa.s
-22D6 cinit CODE >2803:/tmp/xcXNPhaJa.s
-22D8 cinit CODE >2804:/tmp/xcXNPhaJa.s
-22DA cinit CODE >2805:/tmp/xcXNPhaJa.s
-22DC cinit CODE >2806:/tmp/xcXNPhaJa.s
-22DE cinit CODE >2807:/tmp/xcXNPhaJa.s
-22E0 cinit CODE >2808:/tmp/xcXNPhaJa.s
-22E4 cinit CODE >2809:/tmp/xcXNPhaJa.s
-22E8 cinit CODE >2810:/tmp/xcXNPhaJa.s
-22E8 cinit CODE >2811:/tmp/xcXNPhaJa.s
-22EA cinit CODE >2812:/tmp/xcXNPhaJa.s
-22EE cinit CODE >2813:/tmp/xcXNPhaJa.s
-22F0 cinit CODE >2814:/tmp/xcXNPhaJa.s
-22F2 cinit CODE >2815:/tmp/xcXNPhaJa.s
-22F4 cinit CODE >2819:/tmp/xcXNPhaJa.s
-22F8 cinit CODE >2820:/tmp/xcXNPhaJa.s
-22FA cinit CODE >2821:/tmp/xcXNPhaJa.s
-22FA cinit CODE >2822:/tmp/xcXNPhaJa.s
-22FC cinit CODE >2823:/tmp/xcXNPhaJa.s
-22FE cinit CODE >2824:/tmp/xcXNPhaJa.s
-2300 cinit CODE >2827:/tmp/xcXNPhaJa.s
-2302 cinit CODE >2828:/tmp/xcXNPhaJa.s
-2304 cinit CODE >2834:/tmp/xcXNPhaJa.s
-2304 cinit CODE >2837:/tmp/xcXNPhaJa.s
-2306 cinit CODE >2838:/tmp/xcXNPhaJa.s
-2308 cinit CODE >2839:/tmp/xcXNPhaJa.s
-230A cinit CODE >2840:/tmp/xcXNPhaJa.s
+22B4 cinit CODE >2645:/tmp/xcXgEhmPf.s
+22B4 cinit CODE >2647:/tmp/xcXgEhmPf.s
+22B4 cinit CODE >2650:/tmp/xcXgEhmPf.s
+22B4 cinit CODE >2785:/tmp/xcXgEhmPf.s
+22B6 cinit CODE >2786:/tmp/xcXgEhmPf.s
+22B8 cinit CODE >2787:/tmp/xcXgEhmPf.s
+22BA cinit CODE >2788:/tmp/xcXgEhmPf.s
+22BC cinit CODE >2789:/tmp/xcXgEhmPf.s
+22BE cinit CODE >2790:/tmp/xcXgEhmPf.s
+22C0 cinit CODE >2791:/tmp/xcXgEhmPf.s
+22C4 cinit CODE >2792:/tmp/xcXgEhmPf.s
+22C8 cinit CODE >2793:/tmp/xcXgEhmPf.s
+22C8 cinit CODE >2794:/tmp/xcXgEhmPf.s
+22CA cinit CODE >2795:/tmp/xcXgEhmPf.s
+22CE cinit CODE >2796:/tmp/xcXgEhmPf.s
+22D0 cinit CODE >2797:/tmp/xcXgEhmPf.s
+22D2 cinit CODE >2798:/tmp/xcXgEhmPf.s
+22D4 cinit CODE >2802:/tmp/xcXgEhmPf.s
+22D6 cinit CODE >2803:/tmp/xcXgEhmPf.s
+22D8 cinit CODE >2804:/tmp/xcXgEhmPf.s
+22DA cinit CODE >2805:/tmp/xcXgEhmPf.s
+22DC cinit CODE >2806:/tmp/xcXgEhmPf.s
+22DE cinit CODE >2807:/tmp/xcXgEhmPf.s
+22E0 cinit CODE >2808:/tmp/xcXgEhmPf.s
+22E4 cinit CODE >2809:/tmp/xcXgEhmPf.s
+22E8 cinit CODE >2810:/tmp/xcXgEhmPf.s
+22E8 cinit CODE >2811:/tmp/xcXgEhmPf.s
+22EA cinit CODE >2812:/tmp/xcXgEhmPf.s
+22EE cinit CODE >2813:/tmp/xcXgEhmPf.s
+22F0 cinit CODE >2814:/tmp/xcXgEhmPf.s
+22F2 cinit CODE >2815:/tmp/xcXgEhmPf.s
+22F4 cinit CODE >2819:/tmp/xcXgEhmPf.s
+22F8 cinit CODE >2820:/tmp/xcXgEhmPf.s
+22FA cinit CODE >2821:/tmp/xcXgEhmPf.s
+22FA cinit CODE >2822:/tmp/xcXgEhmPf.s
+22FC cinit CODE >2823:/tmp/xcXgEhmPf.s
+22FE cinit CODE >2824:/tmp/xcXgEhmPf.s
+2300 cinit CODE >2827:/tmp/xcXgEhmPf.s
+2302 cinit CODE >2828:/tmp/xcXgEhmPf.s
+2304 cinit CODE >2834:/tmp/xcXgEhmPf.s
+2304 cinit CODE >2837:/tmp/xcXgEhmPf.s
+2306 cinit CODE >2838:/tmp/xcXgEhmPf.s
+2308 cinit CODE >2839:/tmp/xcXgEhmPf.s
+230A cinit CODE >2840:/tmp/xcXgEhmPf.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -844,7 +844,7 @@ __HidataBANK0 0 0 ABS 0 idataBANK0 dist/default/production/trabalho-final.X.prod
 __HidataBANK1 0 0 ABS 0 idataBANK1 dist/default/production/trabalho-final.X.production.o
 lcdCommand@old_D 7 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __Hibigdata 0 0 CODE 0 ibigdata dist/default/production/trabalho-final.X.production.o
-__mediumconst 0 0 MEDIUMCONST 0 mediumconst /tmp/xcXlhIDkc.o
+__mediumconst 0 0 MEDIUMCONST 0 mediumconst /tmp/xcXpljgjj.o
 delay@i 1 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 delay@j 2 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __Heeprom_data 0 0 EEDATA 0 eeprom_data dist/default/production/trabalho-final.X.production.o
@@ -859,14 +859,14 @@ __size_of_escreve 0 0 ABS 0 - dist/default/production/trabalho-final.X.productio
 _textApostando 19B8 0 CODE 0 text6 dist/default/production/trabalho-final.X.production.o
 __Lsmallconst 600 0 SMALLCONST 0 smallconst dist/default/production/trabalho-final.X.production.o
 itoa@ptr1 14 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
-___sp 0 0 STACK 2 stack /tmp/xcXlhIDkc.o
+___sp 0 0 STACK 2 stack /tmp/xcXpljgjj.o
 _itoa 1406 0 CODE 0 text16 dist/default/production/trabalho-final.X.production.o
 _main 18CE 0 CODE 0 text0 dist/default/production/trabalho-final.X.production.o
 _rand 1E76 0 CODE 0 text24 dist/default/production/trabalho-final.X.production.o
 _seed F6 0 BANK0 1 nvBANK0 dist/default/production/trabalho-final.X.production.o
 _time 2410 0 CODE 0 text1 dist/default/production/trabalho-final.X.production.o
 __size_of_Apostando 0 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
-start 0 0 CODE 0 init /tmp/xcXlhIDkc.o
+start 0 0 CODE 0 init /tmp/xcXpljgjj.o
 _textGameOver 2024 0 CODE 0 text8 dist/default/production/trabalho-final.X.production.o
 __size_of___aldiv 0 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
 __size_of___awdiv 0 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
@@ -891,11 +891,11 @@ __Hpowerup 0 0 CODE 0 powerup dist/default/production/trabalho-final.X.productio
 _kpDebounce 1288 0 CODE 0 text42 dist/default/production/trabalho-final.X.production.o
 ___awmod@sign 18 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 time@t 1 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
-__accesstop 80 0 ABS 0 - /tmp/xcXlhIDkc.o
-intlevel0 0 0 CODE 0 text /tmp/xcXlhIDkc.o
-intlevel1 0 0 CODE 0 text /tmp/xcXlhIDkc.o
-intlevel2 0 0 CODE 0 text /tmp/xcXlhIDkc.o
-intlevel3 0 0 CODE 0 text /tmp/xcXlhIDkc.o
+__accesstop 80 0 ABS 0 - /tmp/xcXpljgjj.o
+intlevel0 0 0 CODE 0 text /tmp/xcXpljgjj.o
+intlevel1 0 0 CODE 0 text /tmp/xcXpljgjj.o
+intlevel2 0 0 CODE 0 text /tmp/xcXpljgjj.o
+intlevel3 0 0 CODE 0 text /tmp/xcXpljgjj.o
 __LbssCOMRAM 0 0 ABS 0 bssCOMRAM dist/default/production/trabalho-final.X.production.o
 kpDebounce@old_D 6 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 ___aldiv@divisor 5 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
@@ -918,8 +918,8 @@ __end_of_Delay40us 25F8 0 CODE 0 text39 dist/default/production/trabalho-final.X
 __end_of_lcdData 2410 0 CODE 0 text20 dist/default/production/trabalho-final.X.production.o
 __end_of_lcdInit 1E02 0 CODE 0 text34 dist/default/production/trabalho-final.X.production.o
 ___awdiv@dividend 1 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
-___inthi_sp 0 0 STACK 2 stack /tmp/xcXlhIDkc.o
-___intlo_sp 0 0 STACK 2 stack /tmp/xcXlhIDkc.o
+___inthi_sp 0 0 STACK 2 stack /tmp/xcXpljgjj.o
+___intlo_sp 0 0 STACK 2 stack /tmp/xcXpljgjj.o
 __size_of_Delay40us 0 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
 kpDebounce@valorAntigo E9 0 BANK0 1 bssBANK0 dist/default/production/trabalho-final.X.production.o
 _CCPR1L FBE 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
@@ -971,7 +971,7 @@ __end_of_Delay2ms 25C6 0 CODE 0 text38 dist/default/production/trabalho-final.X.
 ___rparam_used 1 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
 pinMode@pin 1 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __end_of_pwmSet 1F50 0 CODE 0 text9 dist/default/production/trabalho-final.X.production.o
-isa$xinst 0 0 ABS 0 - /tmp/xcXlhIDkc.o
+isa$xinst 0 0 ABS 0 - /tmp/xcXpljgjj.o
 textApostando@text 56 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __size_of_pwmInit 0 0 ABS 0 - dist/default/production/trabalho-final.X.production.o
 __end_of_inverso 2536 0 CODE 0 text11 dist/default/production/trabalho-final.X.production.o
@@ -1002,7 +1002,7 @@ __Htext9 0 0 ABS 0 text9 dist/default/production/trabalho-final.X.production.o
 ___lwdiv@counter 7 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __Hbigbss 0 0 BIGRAM 1 bigbss dist/default/production/trabalho-final.X.production.o
 __Hbigram 0 0 ABS 0 bigram dist/default/production/trabalho-final.X.production.o
-__smallconst 600 0 SMALLCONST 0 smallconst /tmp/xcXlhIDkc.o
+__smallconst 600 0 SMALLCONST 0 smallconst /tmp/xcXpljgjj.o
 textGameOver@text 3C 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __end_of_textInstrutions 21FC 0 CODE 0 text3 dist/default/production/trabalho-final.X.production.o
 textInit@text 1C 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
@@ -1201,12 +1201,12 @@ srand@s 9 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.produ
 __end_of_pwmFrequency 25AA 0 CODE 0 text32 dist/default/production/trabalho-final.X.production.o
 main@tecla 7C 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __Lfardata 0 0 FARRAM 0 fardata dist/default/production/trabalho-final.X.production.o
-isa$std 1 0 ABS 0 - /tmp/xcXlhIDkc.o
+isa$std 1 0 ABS 0 - /tmp/xcXpljgjj.o
 inverso@k 3 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 inverso@x 4 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 Apostando@tempo 4E 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
-stackhi 5FF 0 ABS 0 - /tmp/xcXlhIDkc.o
-stacklo 19C 0 ABS 0 - /tmp/xcXlhIDkc.o
+stackhi 5FF 0 ABS 0 - /tmp/xcXpljgjj.o
+stacklo 19C 0 ABS 0 - /tmp/xcXpljgjj.o
 pinMode@type 3 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 __Lintcode 0 0 CODE 0 intcode dist/default/production/trabalho-final.X.production.o
 __Lintret 0 0 ABS 0 intret dist/default/production/trabalho-final.X.production.o
@@ -1304,7 +1304,7 @@ __Ltext40 0 0 ABS 0 text40 dist/default/production/trabalho-final.X.production.o
 __Ltext41 0 0 ABS 0 text41 dist/default/production/trabalho-final.X.production.o
 __Ltext42 0 0 ABS 0 text42 dist/default/production/trabalho-final.X.production.o
 itoa@result B 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
-__ramtop 600 0 RAM 0 ramtop /tmp/xcXlhIDkc.o
+__ramtop 600 0 RAM 0 ramtop /tmp/xcXpljgjj.o
 ___aldiv@dividend 1 0 COMRAM 1 cstackCOMRAM dist/default/production/trabalho-final.X.production.o
 _textApostas 2258 0 CODE 0 text5 dist/default/production/trabalho-final.X.production.o
 __Lpowerup 0 0 CODE 0 powerup dist/default/production/trabalho-final.X.production.o
