@@ -2,7 +2,8 @@
 
 [Licenca]: https://img.shields.io/badge/Licen%C3%A7a-MIT-brightgreen "Somos Livres!"
 # embarcados-projeto-final
-
+[Relatório do Projeto](https://github.com/marcos-bah/embarcados-projeto-final/blob/main/docs/Projeto_%20Ca%C3%A7a-N%C3%ADquel%20-%20Embarcado.pdf)
+  
 ![alt text](https://github.com/marcos-bah/embarcados-projeto-final/blob/main/docs/inicial.png)
 
 Durante as aulas da disciplina de Programação Embarcada foi proposto a elaboração de um trabalho que pudesse reunir todos os conhecimentos adquiridos na disciplina, bem como a produção de um projeto prático e didático.   
